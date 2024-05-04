@@ -20,6 +20,10 @@
     flex-wrap: wrap;
     cursor: pointer;
 }
+.active  img{
+    padding-bottom:5px;
+    border-bottom: 5px solid red;
+}
 .sidebar hr{
     border:0;
     height:1px;
